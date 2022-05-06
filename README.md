@@ -2,7 +2,7 @@
 
 
 <h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Diego <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Diego2903-byte" alt="Diego2903" /> </p>
 
 I'm a Programer Enthusiast  👨‍💻, I am currently studygn in <a href="https://www.linkedin.com/school/digitalhouseschool/">  Digital House </a> doing a Certified Tech Developer and also I'm a Sport Training 👨‍🎓
   
